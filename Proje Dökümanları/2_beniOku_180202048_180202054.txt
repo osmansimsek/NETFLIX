@@ -1,0 +1,94 @@
+180202048 Osman ŞİMŞEK          180202054 Yener Emin ELİBOL+
+Proje başlığı:Netflix
+Netflix projesini çalıştırmak için gerekli program: Visual Studio Code 1.45 , MySQL Workbench 8.0 versiyonu
+Netflix projesinin yazıldığı dil : c#
+projeyi çalıştırmak için uygulanıcak adımlar: 
+
+----------------------------------------------Projeyi Çalıştırma-------------------------------------------------------------
+Proje klasorü açıldığında 
+Prolab 6 -> BağlantıBilgileri.txt
+dosyasına giderek sırasıyla "datasource","port","username","password" bilgilerinizi var olan yerlere yazınız.
+MySQL Workbench'e girin. MySQL Connections'tan giriş yapın.girdikten sonra .sql dosyanısını çalıştırmak
+için sırasıyla;
+file -> Open SQL Script 
+Diyerek .sql dosyasını bulunduğu konumdan seçerek ekleyiniz.
+Eklendikten sonra Projenin bulunduğu lasöre giderek
+Prolab 6 -> Prolab 6.sln konumundan projeyi çalıştırın.
+Visual Studio Code açıldıktan sonra Başlat tuşuna basarak projeyi çalıştırın.
+
+----------------------------------------------Giriş Menüsü-------------------------------------------------------------
+ilk olarak program çalıştığında programın giriş menüsü ekrana gelmektedir.Bu menüde sırasıyla;
+
+E Posta:
+Şifre:
+Giris
+Kayıt Ol
+
+Butonları mevcutur. Sisteme kayıtlı eposta ve şifreniz varsa E posta: ve Şifre : alanlarına
+eposta ve şifrenizi giriniz ve giriş butonuna basarak(klavyeden Enter tuşunada basabilirsiniz) uygulamaya girebilirsiniz.
+
+
+-----------------------------------------------Kayıt Menüsü-------------------------------------------------------------
+Sisteme kayıtlı eposta ve şifreniz yok ise Kayıt Ol butonuna basın, gelen pencerenin sırasıyla;
+
+Ad:
+E Posta:
+Şifre:
+Doğum Tarihi:
+
+Alanlarını doğru şekilde doldurun ve Devam Et butonuna basın.Karşınıza çıkan 12 türden en sevdiğiniz 3 türü seçin ve Kaydet 
+butonuna basın.Gelen bilgilendirme mesajına Tamam diyerek sisteme girebilirsiniz.
+
+
+------------------------------------------------Ana Menü-------------------------------------------------------------
+Sisteme girdikten sonra seçtiniz türlerden en çok puan almış filmlere Sizin İçin Önerilenler kısmından izleyebilir
+yada var olan diğer film,dizi ve Tv Showlarından istediklerini izleyebilirsiniz.
+Sol tarafta sırasıyla yer alan:
+
+Ara: 				-Kısmından izlemek istediğiniz içeriklere yazarak ulaşabilirsiniz
+
+Ana Sayfa  			-Kısmından ana sayfaya gidip var olan tüm içeriklere ulaşabilirsiniz
+
+Aksiyon ve Macera               -Aksiyon ve Macera türündeki içeriklere ulaşabilirsiniz
+Anime	  	                -Anime türündeki içeriklere ulaşabilirsiniz
+Belgesel	                -Belgese türündeki içeriklere ulaşabilirsiniz
+Bilim Kurgu ve Fantastik	-Bilim Kurgu ve Fantastik türündeki içeriklere ulaşabilirsiniz
+Bilim ve Doğa	                -Bilim ve Doğa türündeki içeriklere ulaşabilirsiniz
+Çocuk ve Aile	                -Çocuk ve Aile türündeki içeriklere ulaşabilirsiniz
+Drama                           -Drama türündeki içeriklere ulaşabilirsiniz
+Gerilim                         -Gerilim türündeki içeriklere ulaşabilirsiniz
+Komedi                          -Komedi türündeki içeriklere ulaşabilirsiniz
+Korku                           -Korku türündeki içeriklere ulaşabilirsiniz
+Reality Program                 -Reality Program  türündeki içeriklere ulaşabilirsiniz
+Romantizm                       -Romantizm türündeki içeriklere ulaşabilirsiniz
+
+Çıkış                           -Çıkış butonuna basarak uygalamayı kapatabilirsiniz
+
+Kısımlardan aradığınız içerikleri bulabilirsiniz.
+
+
+---------------------------------------------İçerik İzleme Menüsü---------------------------------------------------------
+İzlemek istediğiniz içeriği seçtikten sonra karşınıza içerik ekranı gelmektedir.Seçtiniz içeriğin görseli,adı,türleri,tipi,
+içeriğin süresi ve izleyicilerden alınmış puanı sizi karşılar.Sağa tarafta içeriğin sahip olduğu bölümlerden izlemek istediğiniz 
+bölümü seçebilirsiniz. Bölüm seçildikten sonra izleme panelinin altındaki sırasıyla;
+
+Başlatma
+Durdurma
+Başa Sarma
+
+Butonlarını kullanarak içeriklerinizi izleyebilirsiniz
+
+Puan Ver                       -kısmından içeriği izlediğinizde puan verebilirsiniz
+
+panelde var olan;
+
+
+Geri Çık                        -Geri Çık butonuyla bir önceki bulunduğunuz yere geri dönebilirsiniz
+
+-----------------------------------------------İYİ SEYİRLER-------------------------------------------------------------
+
+
+
+
+
+
